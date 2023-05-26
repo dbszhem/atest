@@ -35,7 +35,8 @@ public class HomeController {
 		
 		return "home";
 		
-		// ìˆ˜ì • íŒŒì¼
+		// ¼öÁ¤
+		// ¼öÁ¤
 	}
 	
 }
